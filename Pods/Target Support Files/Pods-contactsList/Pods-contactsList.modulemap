@@ -1,0 +1,6 @@
+framework module Pods_contactsList {
+  umbrella header "Pods-contactsList-umbrella.h"
+
+  export *
+  module * { export * }
+}
